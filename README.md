@@ -100,29 +100,29 @@ unity-admob-integration-guide/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/unity-admob-integration-guide.git
+git clone https://github.com/unitysourcecode2026/unity-admob-integration-guide.git
 ```
 
 Open the documentation folder and follow the guides step by step.
 
 ---
 
-# 📘 Documentation
+## 📘 Documentation
 
-| Guide | Description |
-|------|-------------|
-| 📖 Introduction | docs/01-introduction.md |
-| ⚙️ Installation | docs/02-installation.md |
-| 🚀 Project Setup | docs/03-project-setup.md |
-| 🔧 SDK Initialization | docs/04-initialize-sdk.md |
-| 📱 Banner Ads | docs/05-banner-ads.md |
-| 🎯 Interstitial Ads | docs/06-interstitial-ads.md |
-| 🎁 Rewarded Ads | docs/07-rewarded-ads.md |
-| 🚪 App Open Ads | docs/08-app-open-ads.md |
-| ⭐ Best Practices | docs/09-admob-best-practices.md |
-| 🛠 Troubleshooting | docs/10-common-errors.md |
-| ❓ FAQ | docs/11-faq.md |
-| 🔗 Resources | docs/12-resources.md |
+| Guide | Open |
+|-------|------|
+| 📖 Introduction | [01-introduction.md](docs/01-introduction.md) |
+| ⚙ Installation | [02-installation.md](docs/02-installation.md) |
+| 🚀 Project Setup | [03-project-setup.md](docs/03-project-setup.md) |
+| 🔑 SDK Initialization | [04-initialize-sdk.md](docs/04-initialize-sdk.md) |
+| 📱 Banner Ads | [05-banner-ads.md](docs/05-banner-ads.md) |
+| 🎯 Interstitial Ads | [06-interstitial-ads.md](docs/06-interstitial-ads.md) |
+| 🎁 Rewarded Ads | [07-rewarded-ads.md](docs/07-rewarded-ads.md) |
+| 📲 App Open Ads | [08-app-open-ads.md](docs/08-app-open-ads.md) |
+| ⭐ Best Practices | [09-admob-best-practices.md](docs/09-admob-best-practices.md) |
+| 🛠 Troubleshooting | [10-common-errors.md](docs/10-common-errors.md) |
+| ❓ FAQ | [11-faq.md](docs/11-faq.md) |
+| 🔗 Resources | [12-resources.md](docs/12-resources.md) |
 
 ---
 
