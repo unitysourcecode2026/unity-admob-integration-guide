@@ -1,7 +1,7 @@
 # Unity AdMob Integration Guide
 
 <p align="center">
-  <img src="images/hero-banner.png" alt="Unity AdMob Integration Guide Banner" width="100%">
+  <img src="hero-banner.webp" alt="Unity AdMob Integration Guide Banner" width="100%">
 </p>
 
 <p align="center">
