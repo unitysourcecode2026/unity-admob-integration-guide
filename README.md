@@ -83,14 +83,6 @@ unity-admob-integration-guide/
 │── .gitignore
 │
 ├── docs/
-│
-├── code/
-│
-├── images/
-│
-├── screenshots/
-│
-└── gifs/
 ```
 
 ---
