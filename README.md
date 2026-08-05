@@ -217,11 +217,3 @@ If you find an issue, feel free to open an Issue or submit a Pull Request.
 This project is licensed under the MIT License.
 
 ---
-
-<p align="center">
-
-Made with ❤️ by <b>Unity Source Code</b>
-
-🌍 https://unitysourcecode.net
-
-</p><img width="1774" height="887" alt="Unity AdMob Integration Guide Banner" src="https://github.com/user-attachments/assets/e90ec4d1-57be-4d15-bb0c-17d542929e80" />
